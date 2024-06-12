@@ -17,5 +17,4 @@ function initializeNav() {
     }
 }
 
-// Call the function
 initializeNav();
